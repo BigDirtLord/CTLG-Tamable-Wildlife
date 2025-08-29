@@ -40,63 +40,6 @@
     "extend": { "flags": [ "CANPLAY" ] }
   },
   {
-    "id": "mon_pregnant_giant_cockroach",
-    "type": "MONSTER",
-    "copy-from": "mon_pregnant_giant_cockroach",
-    "extend": { "flags": [ "CANPLAY" ] }
-  },
-  {
-    "id": "mon_silverfish_nymph",
-    "type": "MONSTER",
-    "copy-from": "mon_silverfish_nymph",
-    "petfood": {
-      "food": [ "BUGFOOD" ],
-      "feed": "The %s seems to… uhh, like you?  Well, as certainly as you could tell a giant bug could like you.  It skitters around your legs and seems friendly.",
-      "pet": "The %s skitters around your feet."
-    },
-    "extend": { "flags": [ "CANPLAY" ] }
-  },
-  {
-    "id": "mon_silverfish",
-    "type": "MONSTER",
-    "copy-from": "mon_silverfish",
-    "extend": { "flags": [ "CANPLAY" ] }
-  },
-  {
-    "id": "mon_moth_fly_larva",
-    "type": "MONSTER",
-    "copy-from": "mon_moth_fly_larva",
-    "petfood": {
-      "food": [ "BUGFOOD" ],
-      "feed": "The %s seems to… uhh, like you?  Well, as certainly as you could tell a giant bug could like you.  It crawls around your legs and seems friendly.",
-      "pet": "The %s crawls around your feet."
-    },
-    "extend": { "flags": [ "CANPLAY" ] }
-  },
-  {
-    "id": "mon_moth_fly",
-    "type": "MONSTER",
-    "copy-from": "mon_moth_fly",
-    "extend": { "flags": [ "CANPLAY" ] }
-  },
-  {
-    "id": "mon_centipede_house_larva",
-    "type": "MONSTER",
-    "copy-from": "mon_centipede_house_larva",
-    "petfood": {
-      "food": [ "BUGFOOD" ],
-      "feed": "The %s seems to… uhh, like you?  Well, as certainly as you could tell a giant bug could like you.  It skitters around your legs and seems friendly.",
-      "pet": "The %s skitters around your feet."
-    },
-    "extend": { "flags": [ "CANPLAY" ] }
-  },
-  {
-    "id": "mon_centipede_house",
-    "type": "MONSTER",
-    "copy-from": "mon_centipede_house",
-    "extend": { "flags": [ "CANPLAY" ] }
-  },
-  {
     "id": "mon_dragonfly_naiad_friendly",
     "type": "MONSTER",
     "copy-from": "mon_dragonfly_naiad",
@@ -135,6 +78,11 @@
     "id": "mon_dermatik_larva",
     "type": "MONSTER",
     "copy-from": "mon_dermatik_larva",
+    "petfood": {
+      "food": [ "BUGFOOD" ],
+      "feed": "The %s seems to… uhh, like you?  Well, as certainly as you could tell a giant bug could like you.  It crawls around your legs and seems friendly.",
+      "pet": "The %s crawls around your feet."
+    },
     "extend": { "flags": [ "CANPLAY" ] }
   },
   {
@@ -204,29 +152,6 @@
     "id": "mon_locust",
     "type": "MONSTER",
     "copy-from": "mon_locust",
-    "extend": { "flags": [ "CANPLAY" ] }
-  },
-  {
-    "id": "mon_locust_mega",
-    "type": "MONSTER",
-    "copy-from": "mon_locust_mega",
-    "extend": { "flags": [ "CANPLAY", "PET_MOUNTABLE" ] }
-  },
-  {
-    "id": "mon_aphid_small",
-    "type": "MONSTER",
-    "copy-from": "mon_aphid_small",
-    "petfood": {
-      "food": [ "BUGFOOD" ],
-      "feed": "The %s seems to… uhh, like you?  Well, as certainly as you could tell a giant bug could like you.  It skitters around your legs and seems friendly.",
-      "pet": "The %s skitters around your feet."
-    },
-    "extend": { "flags": [ "CANPLAY" ] }
-  },
-  {
-    "id": "mon_aphid",
-    "type": "MONSTER",
-    "copy-from": "mon_aphid",
     "extend": { "flags": [ "CANPLAY" ] }
   },
   {

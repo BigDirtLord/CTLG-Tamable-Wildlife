@@ -100,46 +100,6 @@
     }
   },
   {
-    "id": "mon_chickadee_chick",
-    "type": "MONSTER",
-    "copy-from": "mon_chickadee_chick",
-    "petfood": {
-      "food": [ "BIRDFOOD" ],
-      "feed": "The %s seems to like you!  It runs around your legs and seems friendly.",
-      "pet": "The %s runs around your leg."
-    }
-  },
-  {
-    "id": "mon_chickadee",
-    "type": "MONSTER",
-    "copy-from": "mon_chickadee",
-    "petfood": {
-      "food": [ "BIRDFOOD" ],
-      "feed": "The %s seems to like you!  It runs around your legs and seems friendly.",
-      "pet": "The %s runs around your leg."
-    }
-  },
-  {
-    "id": "mon_waxwing_chick",
-    "type": "MONSTER",
-    "copy-from": "mon_waxwing_chick",
-    "petfood": {
-      "food": [ "BIRDFOOD" ],
-      "feed": "The %s seems to like you!  It runs around your legs and seems friendly.",
-      "pet": "The %s runs around your leg."
-    }
-  },
-  {
-    "id": "mon_waxwing",
-    "type": "MONSTER",
-    "copy-from": "mon_waxwing",
-    "petfood": {
-      "food": [ "BIRDFOOD" ],
-      "feed": "The %s seems to like you!  It runs around your legs and seems friendly.",
-      "pet": "The %s runs around your leg."
-    }
-  },
-  {
     "id": "mon_duck",
     "type": "MONSTER",
     "copy-from": "mon_duck",
@@ -183,76 +143,6 @@
     "id": "mon_grouse_chick",
     "type": "MONSTER",
     "copy-from": "mon_grouse_chick",
-    "petfood": {
-      "food": [ "BIRDFOOD" ],
-      "feed": "The %s seems to like you!  It runs around your legs and seems friendly.",
-      "pet": "The %s runs around your leg."
-    }
-  },
-  {
-    "id": "mon_hummingbird_chick",
-    "type": "MONSTER",
-    "copy-from": "mon_hummingbird_chick",
-    "petfood": {
-      "food": [ "BIRDFOOD" ],
-      "feed": "The %s seems to like you!  It runs around your legs and seems friendly.",
-      "pet": "The %s runs around your leg."
-    }
-  },
-  {
-    "id": "mon_hummingbird",
-    "type": "MONSTER",
-    "copy-from": "mon_hummingbird",
-    "petfood": {
-      "food": [ "BIRDFOOD" ],
-      "feed": "The %s seems to like you!  It quickly flies around you and seems friendly.",
-      "pet": "The %s flies around you."
-    }
-  },
-  {
-    "id": "mon_woodpecker_chick",
-    "type": "MONSTER",
-    "copy-from": "mon_woodpecker_chick",
-    "petfood": {
-      "food": [ "BIRDFOOD" ],
-      "feed": "The %s seems to like you!  It runs around your legs and seems friendly.",
-      "pet": "The %s runs around your leg."
-    }
-  },
-  {
-    "id": "mon_coot_chick",
-    "type": "MONSTER",
-    "copy-from": "mon_coot_chick",
-    "petfood": {
-      "food": [ "BIRDFOOD" ],
-      "feed": "The %s seems to like you!  It runs around your legs and seems friendly.",
-      "pet": "The %s runs around your leg."
-    }
-  },
-  {
-    "id": "mon_cormorant_chick",
-    "type": "MONSTER",
-    "copy-from": "mon_cormorant_chick",
-    "petfood": {
-      "food": [ "BIRDFOOD" ],
-      "feed": "The %s seems to like you!  It runs around your legs and seems friendly.",
-      "pet": "The %s runs around your leg."
-    }
-  },
-  {
-    "id": "mon_moorhen_chick",
-    "type": "MONSTER",
-    "copy-from": "mon_moorhen_chick",
-    "petfood": {
-      "food": [ "BIRDFOOD" ],
-      "feed": "The %s seems to like you!  It runs around your legs and seems friendly.",
-      "pet": "The %s runs around your leg."
-    }
-  },
-  {
-    "id": "mon_grebe_chick",
-    "type": "MONSTER",
-    "copy-from": "mon_grebe_chick",
     "petfood": {
       "food": [ "BIRDFOOD" ],
       "feed": "The %s seems to like you!  It runs around your legs and seems friendly.",

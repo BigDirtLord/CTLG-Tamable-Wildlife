@@ -6,7 +6,7 @@
     "authors": [ "Termineitor244" ],
     "maintainers": [ "Termineitor244" ],
     "description": "Makes a lot of docile, but generally untamable wildlife, tamable.",
-    "category": "rebalance",
-    "dependencies": [ "dda" ]
+    "category": "content",
+    "dependencies": [ "tlg" ]
   }
 ]

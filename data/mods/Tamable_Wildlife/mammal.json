@@ -39,39 +39,6 @@
     "extend": { "flags": [ "CANPLAY" ] }
   },
   {
-    "id": "mon_black_rat",
-    "type": "MONSTER",
-    "copy-from": "mon_black_rat",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s lets out a happy squeak as you give its head a small scritch."
-    },
-    "extend": { "flags": [ "CANPLAY" ] }
-  },
-  {
-    "id": "mon_boar_wild_piglet",
-    "type": "MONSTER",
-    "copy-from": "mon_boar_wild_piglet",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s lets out a happy squeak as you give its head a small scritch."
-    },
-    "extend": { "flags": [ "CANPLAY" ] }
-  },
-  {
-    "id": "mon_boar_wild",
-    "type": "MONSTER",
-    "copy-from": "mon_boar_wild",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s happily wags its tail while you pat its head."
-    },
-    "extend": { "flags": [ "CANPLAY", "PET_MOUNTABLE" ] }
-  },
-  {
     "id": "mon_bobcat",
     "type": "MONSTER",
     "copy-from": "mon_bobcat",
@@ -161,28 +128,6 @@
     "extend": { "flags": [ "CANPLAY" ] }
   },
   {
-    "id": "mon_hare",
-    "type": "MONSTER",
-    "copy-from": "mon_hare",
-    "petfood": {
-      "food": [ "CATTLEFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s runs around your leg."
-    },
-    "extend": { "flags": [ "CANPLAY" ] }
-  },
-  {
-    "id": "mon_lemming",
-    "type": "MONSTER",
-    "copy-from": "mon_lemming",
-    "petfood": {
-      "food": [ "CATTLEFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s runs around your leg."
-    },
-    "extend": { "flags": [ "CANPLAY" ] }
-  },
-  {
     "id": "mon_mink",
     "type": "MONSTER",
     "copy-from": "mon_mink",
@@ -260,17 +205,6 @@
     }
   },
   {
-    "id": "mon_sewer_rat",
-    "type": "MONSTER",
-    "copy-from": "mon_sewer_rat",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s lets out a happy squeak as you give its head a small scritch."
-    },
-    "extend": { "flags": [ "CANPLAY" ] }
-  },
-  {
     "id": "mon_sheep_lamb",
     "type": "MONSTER",
     "copy-from": "mon_sheep_lamb",
@@ -294,17 +228,6 @@
     "id": "mon_squirrel",
     "type": "MONSTER",
     "copy-from": "mon_squirrel",
-    "petfood": {
-      "food": [ "DOGFOOD" ],
-      "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
-      "pet": "The %s lets out a happy squeak as you give its head a small scritch."
-    },
-    "extend": { "flags": [ "CANPLAY" ] }
-  },
-  {
-    "id": "mon_squirrel_red",
-    "type": "MONSTER",
-    "copy-from": "mon_squirrel_red",
     "petfood": {
       "food": [ "DOGFOOD" ],
       "feed": "The %s seems to like you!  It lets you pat its head and seems friendly.",
