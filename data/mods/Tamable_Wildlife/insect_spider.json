@@ -230,17 +230,6 @@
     "extend": { "flags": [ "CANPLAY" ] }
   },
   {
-    "id": "mon_stag_beetle_larva",
-    "type": "MONSTER",
-    "copy-from": "mon_stag_beetle_larva",
-    "petfood": {
-      "food": [ "BUGFOOD" ],
-      "feed": "The %s seems to… uhh, like you?  Well, as certainly as you could tell a giant bug could like you.  It crawls around you and seems friendly.",
-      "pet": "The %s crawls around you."
-    },
-    "extend": { "flags": [ "CANPLAY" ] }
-  },
-  {
     "id": "mon_antlion_larva_friendly",
     "type": "MONSTER",
     "copy-from": "mon_antlion_larva",
